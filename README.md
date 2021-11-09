@@ -4,7 +4,7 @@ Exercise for MSCH-C220, 9 November 2021
 
 This exercise is intended to provide a well-trod introduction to Blender 2.9 by introducing you to the first level of the classic donut tutorial by Blender Guru. You will need to set aside some time for this exercise, but you should emerge with a much better understanding of how Blender works and how to use it to create models.
 
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-05c-Blender. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
+Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06a-Blender. *Edit the LICENSE and replace BL-MSCH-C220-F21 with your full name.* Commit your changes.
 
 Clone the repository to a Local Path on your computer.
 
@@ -23,7 +23,7 @@ Follow the tutorial in these videos:
 
 Export your model as a glTF 2.0 file. Save it in this repository folder as donut.gltf.
 
-Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-05c-Blender) on Canvas.
+Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-06a-Blender) on Canvas.
 
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
