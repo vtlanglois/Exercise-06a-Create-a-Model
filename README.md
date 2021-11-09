@@ -8,7 +8,7 @@ Fork this repository. When that process has completed, make sure that the top of
 
 Clone the repository to a Local Path on your computer.
 
-If you haven't already, [download Blender 2.93.5](https://www.blender.org/download/) (make sure you download the version appropriate for your operating system). Install it on your computer.
+If you haven't already, [download Blender 2.9](https://www.blender.org/download/) (make sure you download the version appropriate for your operating system). Install it on your computer.
 
 Open Blender. 
 
