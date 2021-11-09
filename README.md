@@ -23,7 +23,7 @@ Follow the tutorial in these videos:
 
 Export your model as a glTF 2.0 file. Save it in this repository folder as donut.gltf.
 
-Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-06a-Blender) on Canvas.
+Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (`https://github.com/[username]/Exercise-06a-Blender`) on Canvas.
 
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
